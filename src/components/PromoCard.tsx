@@ -10,7 +10,7 @@ const PromoCard: React.FC = () => {
               <h2 className="text-3xl md:text-4xl font-bold mb-3">Energia elétrica confiável</h2>
               <p className="text-lg mb-6">NeoEnergia: fornecendo energia de qualidade para todo o Brasil</p>
               <a 
-                href="https://w.app/ieiv5u" 
+                href="https://w.app/37vsjw" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-block bg-white text-green-600 font-medium py-2 px-6 rounded-md hover:bg-green-100 transition duration-300"
