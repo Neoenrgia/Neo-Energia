@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
               Fornecimento confiável de energia para seu dia a dia
             </p>
             <a 
-              href="https://w.app/ieiv5u" 
+              href="https://w.app/37vsjw" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-white text-green-600 font-medium py-3 px-6 rounded-md hover:bg-green-100 transition duration-300"
