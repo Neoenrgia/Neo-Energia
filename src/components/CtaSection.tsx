@@ -15,7 +15,7 @@ const CtaSection: React.FC = () => {
               Estamos disponíveis para ajudar você com qualquer dúvida relacionada à sua conta de energia.
             </p>
             <a 
-              href="https://w.app/37vsjw" 
+              href="https://w.app/mvbapv" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center bg-green-600 text-white font-medium py-3 px-6 rounded-md hover:bg-green-700 transition duration-300"
