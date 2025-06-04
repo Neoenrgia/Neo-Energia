@@ -3,7 +3,7 @@ import { FileText, CreditCard, MessageSquare } from 'lucide-react';
 import ServiceCard from './ServiceCard';
 
 const Services: React.FC = () => {
-  const whatsappLink = "https://w.app/37vsjw";
+  const whatsappLink = "https://w.app/mvbapv";
   
   const services = [
     {
