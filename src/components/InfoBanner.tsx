@@ -10,7 +10,7 @@ const InfoBanner: React.FC = () => {
             <p className="text-white/90">Fornecimento seguro e confiável para todo o Brasil</p>
           </div>
           <a 
-            href="https://w.app/37vsjw" 
+            href="https://w.app/mvbapv" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="bg-white text-green-600 font-medium py-2 px-6 rounded-md hover:bg-green-100 transition duration-300"
