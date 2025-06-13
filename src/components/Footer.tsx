@@ -31,11 +31,11 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Serviços</h3>
             <ul className="space-y-2">
-              <li><a href="https://w.app/m3ykyl" className="text-gray-400 hover:text-white transition-colors">Segunda via de boleto</a></li>
-              <li><a href="https://w.app/m3ykyl" className="text-gray-400 hover:text-white transition-colors">Quitações de dívidas</a></li>
-              <li><a href="https://w.app/m3ykyl" className="text-gray-400 hover:text-white transition-colors">Negociações</a></li>
-              <li><a href="https://w.app/m3ykyl" className="text-gray-400 hover:text-white transition-colors">Ligação nova</a></li>
-              <li><a href="https://w.app/m3ykyl" className="text-gray-400 hover:text-white transition-colors">Religação</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Segunda via de boleto</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Quitações de dívidas</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Negociações</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Ligação nova</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Religação</a></li>
             </ul>
           </div>
           
