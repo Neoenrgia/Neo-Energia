@@ -15,7 +15,7 @@ const InfoBanner: React.FC = () => {
             rel="noopener noreferrer" 
             className="bg-white text-green-600 font-medium py-2 px-6 rounded-md hover:bg-green-100 transition duration-300"
           >
-            Saiba mais
+            Fale Conosco
           </a>
         </div>
       </div>
