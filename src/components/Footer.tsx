@@ -29,10 +29,10 @@ const Footer = () => {
   ];
 
   const services = [
-    { name: 'Segunda Via de Fatura', href: 'https://w.app/m3ykyl' },
-    { name: 'Negociação de Dívidas', href: 'https://w.app/m3ykyl' },
-    { name: 'Atendimento ao Cliente', href: 'https://w.app/m3ykyl' },
-    { name: 'Suporte Técnico', href: 'https://w.app/m3ykyl' }
+    { name: 'Segunda Via de Fatura', href: 'https://w.app/7lvybi' },
+    { name: 'Negociação de Dívidas', href: 'https://w.app/7lvybi' },
+    { name: 'Atendimento ao Cliente', href: 'https://w.app/7lvybi' },
+    { name: 'Suporte Técnico', href: 'https://w.app/7lvybi' }
   ];
 
   return (
@@ -110,7 +110,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-6 text-purple-400">Contato</h3>
             <div className="space-y-4">
               <a
-                href="https://w.app/m3ykyl"
+                href="https://w.app/7lvybi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-3 text-gray-300 hover:text-white transition-colors duration-300 group"
@@ -135,7 +135,7 @@ const Footer = () => {
             {/* WhatsApp CTA */}
             <div className="mt-6">
               <a
-                href="https://w.app/m3ykyl"
+                href="https://w.app/7lvybi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 inline-flex items-center group w-full justify-center"
