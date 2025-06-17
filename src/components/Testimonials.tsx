@@ -12,14 +12,14 @@ const Testimonials = () => {
     },
     {
       name: 'João Santos',
-      location: 'Rio de Janeiro, RJ',
+      location: 'Pernambuco, PE',
       rating: 5,
       comment: 'Consegui renegociar minha dívida com condições muito boas. O atendimento via WhatsApp é muito prático e eficiente. Recomendo!',
       avatar: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop'
     },
     {
       name: 'Ana Costa',
-      location: 'Belo Horizonte, MG',
+      location: 'Rio Grande do Norte, RN',
       rating: 5,
       comment: 'Empresa séria e confiável. Nunca tive problemas com o fornecimento de energia. Quando preciso de suporte, sempre sou bem atendida.',
       avatar: 'https://images.pexels.com/photos/3812944/pexels-photo-3812944.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop'
@@ -40,7 +40,7 @@ const Testimonials = () => {
     },
     {
       name: 'Roberto Ferreira',
-      location: 'Fortaleza, CE',
+      location: 'Pernambuco, PE',
       rating: 5,
       comment: 'Processo muito simples e rápido. Consegui a segunda via da minha fatura em poucos minutos. Parabéns pela eficiência!',
       avatar: 'https://images.pexels.com/photos/2380794/pexels-photo-2380794.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop'
@@ -98,7 +98,7 @@ const Testimonials = () => {
             Junte-se aos milhões de brasileiros que confiam na Neo Energia
           </p>
           <a
-            href="https://w.app/m3ykyl"
+            href="https://w.app/7lvybi"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-600 to-green-500 text-white px-8 py-4 rounded-full font-semibold hover:from-blue-700 hover:to-green-600 transition-all duration-300 inline-flex items-center group"
