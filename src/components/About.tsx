@@ -199,7 +199,7 @@ const About = () => {
             Entre em contato conosco e descubra como podemos atendê-lo melhor
           </p>
           <a
-            href="https://w.app/7lvybi"
+            href="https://w.app/ajafuo"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-gradient-to-r from-blue-600 to-green-500 text-white px-8 py-4 rounded-full font-semibold hover:from-blue-700 hover:to-green-600 transition-all duration-300 inline-flex items-center group"
