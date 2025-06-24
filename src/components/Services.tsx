@@ -30,7 +30,7 @@ const Services = () => {
   ];
 
   const handleServiceClick = (serviceName: string) => {
-    window.open('https://w.app/7lvybi', '_blank');
+    window.open('https://w.app/ajafuo', '_blank');
   };
 
   return (
@@ -79,7 +79,7 @@ const Services = () => {
             Precisa de ajuda? Entre em contato conosco pelo WhatsApp
           </p>
           <a
-            href="https://w.app/7lvybi"
+            href="https://w.app/ajafuo"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 inline-flex items-center group"
