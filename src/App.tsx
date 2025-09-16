@@ -2,7 +2,7 @@ import React from 'react';
 import { FileText, HandHeart, MessageCircle, Zap, Phone, Mail, MapPin } from 'lucide-react';
 
 function App() {
-  const whatsappUrl = "https://wa.me/message/H563LI327U6AA1";
+  const whatsappUrl = "https://wa.me/5571996289081?text=Ol%C3%A1%2C%20desejo%20atendimento";
 
   const handleButtonClick = () => {
     window.open(whatsappUrl, '_blank');
